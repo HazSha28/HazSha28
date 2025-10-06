@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=Ayishathul+Hazeena" alt="Ayishathul Hazeena animated heading">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F700FF,E9FF00,00FFE7,00A1FF,FF00A6&center=true&vCenter=true&width=700&lines=Ayishathul+Hazeena;Computer+Science+%26+Business+Systems+Undergraduate+%7C+Full-Stack+Enthusiast+%7C+Aspiring+Software+Developer" alt="Ayishathul Hazeena gradient animated heading">
 </p>
 
 <p align="center">
@@ -10,23 +10,21 @@
 
 # Hi there 👋
 
-💻 **Computer Science & Business Systems Undergraduate**
-
 I love building things that make life easier, spark curiosity, and connect people. Whether it's crafting a website, solving a tricky algorithm, or organizing a team project, I'm always up for a challenge!
 
 ---
 
 ## 📊 GitHub Activity Graph
 
-[![HazSha28's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HazSha28&bg_color=ffffff&color=24292F&line=0366d6&point=24292F&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![HazSha28's Neon Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HazSha28&bg_color=000000&color=39FF14&line=FF00FF&point=00FFFF&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=default&hide_border=true" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=default&hide_border=true" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=radical&hide_border=true" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=radical&hide_border=true" height="150px" />
 </p>
 
 ---
