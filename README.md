@@ -15,21 +15,25 @@
   <img src="https://img.shields.io/badge/Building%20with%20Passion-36DEFF?style=for-the-badge&logo=code&logoColor=white" alt="Building with Passion" />
 </p>
 
-# 💫 About Me
+## 💫 About Me
 I love building things that make life easier, spark curiosity, and connect people. Whether it's crafting a website, solving a tricky algorithm, or organizing a team project, I'm always up for a challenge.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hazeena-shahul-hameed-b01838292/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tohazsha@gmail.com) 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HazSha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HazSha28&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=HazSha28&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- GitHub contribution calendar (live) -->
+<p align="center">
+  <img src="https://github-contributions.azurewebsites.net/image?user=HazSha28&theme=vue" alt="GitHub Contributions Calendar" />
+</p>
 
-### 🌐 Coding Platforms
+
+## 🌐 Coding Platforms
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/HazSha28)  
 [![Codolio](https://img.shields.io/badge/Codolio-1a1a1a?style=flat)](https://codolio.com/profile/Hazeena%20S)  
