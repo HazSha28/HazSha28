@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1200&color=36DEFF&center=true&vCenter=true&width=620&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Innovating+with+Tech+and+Management;Full-Stack+Dreamer+with+Big+Ideas;Always+Exploring+New+Technologies;Let%27s+Connect+and+Create+Together!" alt="Animated Welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2700&pause=1200&color=36DEFF&center=true&vCenter=true&width=950&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Animated Welcome Banner" />
 </p>
 
 ---
@@ -57,18 +57,44 @@
 
 ## 🌟 Featured Projects
 
-🔹 [**Flavour Fusion**](https://hazsha28.github.io/Flavour-Fusion/) 🍲  
-A platform for discovering and sharing recipes from around the world, complete with video tutorials and step-by-step guides.
-
-🔹 [**Todo App**](https://hazsha28.github.io/Todo-App/) ✅  
-A simple and intuitive task manager that helps users organize daily tasks efficiently.
-
-🔹 [**Expense Tracker**](https://hazsha28.github.io/Expense-Tracker/) 💸  
-A web application to monitor and manage expenses, analyze spending habits, and set financial goals.
-
-🔹 [**Hadith Master**](https://hadith-master.vercel.app/) 📖  
-A web app dedicated to preserving and making accessible traditional Islamic texts for everyone.
-
+<table>
+  <tr>
+    <td align="center" width="290">
+      <a href="https://hazsha28.github.io/Flavour-Fusion/">
+        <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Flavour Fusion" width="120"/><br/>
+        <b>Flavour Fusion</b>
+      </a>
+      <br/>
+      <span>🍲 Discover and share recipes with video tutorials and guides.</span>
+    </td>
+    <td align="center" width="290">
+      <a href="https://hazsha28.github.io/Todo-App/">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Todo App" width="120"/><br/>
+        <b>Todo App</b>
+      </a>
+      <br/>
+      <span>✅ Organize daily tasks with a simple, intuitive manager.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="290">
+      <a href="https://hazsha28.github.io/Expense-Tracker/">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/3oKIPwoeGErMmaI43C/giphy.gif" alt="Expense Tracker" width="120"/><br/>
+        <b>Expense Tracker</b>
+      </a>
+      <br/>
+      <span>💸 Track, analyze, and manage your expenses visually.</span>
+    </td>
+    <td align="center" width="290">
+      <a href="https://hadith-master.vercel.app/">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hadith Master" width="120"/><br/>
+        <b>Hadith Master</b>
+      </a>
+      <br/>
+      <span>📖 Accessible platform for traditional Islamic texts.</span>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏆 Highlights
