@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Awesome animated GitHub profile card -->
+  <!-- Awesome animated GitHub profile card (may not work on all browsers/GitHub, fallback to badges and animated icons below) -->
   <img src="https://github-profile-card.vercel.app/api/card?username=HazSha28&theme=midnight&show_icons=true&show_stats=true&animation=true" alt="Ayishathul Hazeena GitHub Profile Card" />
 </p>
 
@@ -13,6 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1200&color=36DEFF&center=true&vCenter=true&width=620&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Innovating+with+Tech+and+Management;Full-Stack+Dreamer+with+Big+Ideas;Always+Exploring+New+Technologies;Let%27s+Connect+and+Create+Together!" alt="Animated Welcome" />
 </p>
 
+---
 
 ## 💡 Technical Skills
 
@@ -95,16 +96,6 @@ A web app dedicated to preserving and making accessible traditional Islamic text
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HazSha28&theme=react-dark&hide_border=true&bg_color=0D1117&color=36DEFF&line=36DEFF&point=36DEFF&area=true&area_color=36DEFF&title_color=36DEFF" alt="Activity Graph" />
 </p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
-- Advanced Data Structures & Algorithms
-- Problem Solving techniques and optimization
-- Full-Stack Development best practices
 
 ---
 
