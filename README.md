@@ -1,13 +1,13 @@
 
+<p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="90"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2700&pause=1200&color=36DEFF&center=true&vCenter=true&width=950&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Animated Welcome Banner" /> </p>
+
+<p align="center"> <i>"When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20%26%20Management%20Student-36DEFF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-36DEFF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Building%20with%20Passion-36DEFF?style=for-the-badge&logo=code&logoColor=white" />
 </p>
-
-<p align="center"> <i>"When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i> </p> <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="90"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2700&pause=1200&color=36DEFF&center=true&vCenter=true&width=950&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Animated Welcome Banner" /> </p>
-
 ---
 ## About Me 
 
@@ -22,13 +22,13 @@ Whether it's crafting a **website**, solving a **tricky algorithm**, or organizi
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
@@ -53,6 +53,15 @@ Whether it's crafting a **website**, solving a **tricky algorithm**, or organizi
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
+
+## 🌟 Project Highlights
+
+| Feature | Animation |
+|---------|-----------|
+| **Full-Stack Development** | ![Full-Stack](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) |
+| **AI-Powered Analytics** | ![AI](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
+| **Real-Time Collaboration** | ![Collaboration](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif) |
+| **Intuitive UI/UX** | ![UI/UX](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
 
 ## 🌟 Featured Projects
 
