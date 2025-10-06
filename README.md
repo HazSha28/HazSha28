@@ -1,46 +1,60 @@
-# Hi there 👋, I’m Ayishathul Hazeena
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=650&lines=Ayishathul+Hazeena;Full-Stack+Enthusiast+%7C+Aspiring+Software+Developer" alt="Ayishathul Hazeena animated heading">
+</p>
 
+<!-- Cool Coding Animation at the top -->
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" alt="coding animation" width="500"/>
+</p>
 
-💻 **Computer Science & Business Systems Undergraduate | Aspiring Software Developer | Full-Stack Enthusiast**
+# Hi there 👋
+
+💻 **Computer Science & Business Systems Undergraduate**
 
 I love building things that make life easier, spark curiosity, and connect people. Whether it's crafting a website, solving a tricky algorithm, or organizing a team project, I'm always up for a challenge!
 
 ---
 
-## 🚀 Skills & Technologies
-
-* **Languages:** C, Java, HTML, CSS, JavaScript, React JS
-* **Concepts:** OOP (Java), DBMS, SQL, Data Structures & Algorithms, UI/UX, Operating Systems
-* **Tools:** Git, GitHub, VS Code, Power BI ,Maven
-
----
-
 ## 🌟 Projects
 
-🔹 [**Flavour Fusion**](https://hazsha28.github.io/Flavour-Fusion/) 🍲  
-A platform for discovering and sharing recipes from around the world, complete with video tutorials and step-by-step guides.
-
-🔹 [**Todo App**](#) ✅  
-A simple and intuitive task manager that helps users organize daily tasks efficiently.
-
-🔹 [**Expense Tracker**](#) 💸  
-A web application to monitor and manage expenses, analyze spending habits, and set financial goals.
-
-🔹 [**Hadith Master**](https://hadith-master.vercel.app/) 📖 *(In Progress)*  
-A web app dedicated to preserving and making accessible traditional Islamic texts for everyone.
-
----
-## 📊 GitHub Stats
-
-![HazSha28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=tokyonight&bg_color=0,0d1117,191970&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=tokyonight&bg_color=0,0d1117,191970&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HazSha28&theme=tokyonight&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HazSha28&theme=onestar&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Snake animation](https://github.com/HazSha28/HazSha28/blob/output/github-contribution-grid-snake.svg)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70"/>
+      <br>
+      🔹 <b><a href="https://hazsha28.github.io/Flavour-Fusion/">Flavour Fusion</a></b> 🍲  
+      <br>
+      A platform for discovering and sharing recipes from around the world.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="70"/>
+      <br>
+      🔹 <b>Todo App</b> ✅  
+      <br>
+      A simple and intuitive task manager for daily tasks.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70"/>
+      <br>
+      🔹 <b>Expense Tracker</b> 💸  
+      <br>
+      Monitor and manage expenses, analyze spending habits, and set financial goals.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="70"/>
+      <br>
+      🔹 <b><a href="https://hadith-master.vercel.app/">Hadith Master</a></b> 📖  
+      <br>
+      A web app dedicated to preserving and making accessible Islamic texts.
+    </td>
+  </tr>
+</table>
 ## 📈 Highlights
 
 * Full Stack Development Intern @ Learnlogicify Technologies
