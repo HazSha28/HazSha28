@@ -1,7 +1,4 @@
-<p align="center">
-  <!-- Awesome animated GitHub profile card (may not work on all browsers/GitHub, fallback to badges and animated icons below) -->
-  <img src="https://github-profile-card.vercel.app/api/card?username=HazSha28&theme=midnight&show_icons=true&show_stats=true&animation=true" alt="Ayishathul Hazeena GitHub Profile Card" />
-</p>
+<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Cartoon Waving Hand" width="50"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20%26%20Management%20Student-36DEFF?style=for-the-badge&logo=github&logoColor=white" />
