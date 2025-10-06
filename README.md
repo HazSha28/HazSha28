@@ -49,18 +49,59 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
----
+## 🌟 Featured Projects
 
-🌟 Featured Projects
-<table> <tr> <td align="center" width="290"> <a href="https://hazsha28.github.io/Flavour-Fusion/"> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Flavour Fusion" width="120"/><br/> <b>Flavour Fusion</b> </a> <br/> <span>🍲 Discover and share recipes with <b>interactive video tutorials</b>.</span> </td> <td align="center" width="290"> <a href="https://hazsha28.github.io/Todo-App/"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Todo App" width="120"/><br/> <b>Todo App</b> </a> <br/> <span>✅ Manage tasks with <b>drag-and-drop animations</b> and smooth transitions.</span> </td> </tr> <tr> <td align="center" width="290"> <a href="https://hazsha28.github.io/Expense-Tracker/"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/3oKIPwoeGErMmaI43C/giphy.gif" alt="Expense Tracker" width="120"/><br/> <b>Expense Tracker</b> </a> <br/> <span>💸 Visualize expenses with <b>animated charts and graphs</b>.</span> </td> <td align="center" width="290"> <a href="https://hadith-master.vercel.app/"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hadith Master" width="120"/><br/> <b>Hadith Master</b> </a> <br/> <span>📖 Search and explore texts with <b>interactive filters</b> and AI-driven summaries.</span> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center" width="290">
+      <a href="https://hazsha28.github.io/Flavour-Fusion/">
+        <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Flavour Fusion" width="120"/><br/>
+        <b>Flavour Fusion</b>
+      </a>
+      <br/>
+      <span>🍳 Dive into a world of flavors! Explore, create, and share recipes with <b>step-by-step video tutorials</b> and interactive cooking guides.</span>
+    </td>
+    <td align="center" width="290">
+      <a href="https://hazsha28.github.io/Todo-App/">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Todo App" width="120"/><br/>
+        <b>Todo App</b>
+      </a>
+      <br/>
+      <span>📝 Stay organized effortlessly! Manage your daily tasks with <b>smooth animations, drag-and-drop features</b>, and instant feedback.</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="290">
+      <a href="https://hazsha28.github.io/Expense-Tracker/">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/3oKIPwoeGErMmaI43C/giphy.gif" alt="Expense Tracker" width="120"/><br/>
+        <b>Expense Tracker</b>
+      </a>
+      <br/>
+      <span>💹 Transform your finances visually! Track, analyze, and manage your expenses</b>.</span>
+    </td>
+    <td align="center" width="290">
+      <a href="https://hadith-master.vercel.app/">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hadith Master" width="120"/><br/>
+        <b>Hadith Master</b>
+      </a>
+      <br/>
+      <span>📖 Explore knowledge effortlessly! Search, filter, and read Islamic texts with <b>AI-powered suggestions, live previews, and interactive learning tools</b>.</span>
+    </td>
+  </tr>
+</table>
 
-## 🏆 Highlights
+##🏆 Highlights
+<p align="center"> <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Trophy Animation" width="80"/> </p>
 
-* Full Stack Development Intern @ Learnlogicify Technologies  
-* Infosys Certified in **Java Programming**  
-* NPTEL certified in **Problem Solving with C, DBMS, and Computer Networks**  
-* **2700/3000** in CodeChef C Test (90% Skill Score)  
-* Regular participant in global programming contests (CodeChef)
+Full Stack Development Intern @ Learnlogicify Technologies
+
+Infosys Certified in Java Programming
+
+NPTEL certified in Problem Solving with C, DBMS, and Computer Networks
+
+2700/3000 in CodeChef C Test (90% Skill Score)
+
+Regular participant in global programming contests (CodeChef)
 
 ---
 
