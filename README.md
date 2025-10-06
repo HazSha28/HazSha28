@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ayishathul%20Hazeena&fontColor=White&fontSize=44&animation=twinkling&descAlignY=78&descAlign=76&descSize=20&textBg=false&fontAlign=50"> <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ayishathul%20Hazeena&fontColor=White&fontSize=44&animation=twinkling&descAlignY=78&descAlign=76&descSize=20&textBg=false&fontAlign=50" alt="Ayishathul Hazeena banner" /> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=timeGradient&text=Ayishathul%20Hazeena&fontColor=FFFFFF&fontSize=44&animation=twinkling&descAlignY=78&descAlign=76&descSize=20&textBg=false&strokeWidth=1&fontAlign=50&stroke=000000" alt="Ayishathul Hazeena animated banner" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36DEFF&center=true&vCenter=true&width=800&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Typing Roles Animation" />
 </p>
@@ -90,7 +90,9 @@ I love building things that make life easier, spark curiosity, and connect peopl
 
 ## 🏆 GitHub Trophies
 <p align="center">
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=HazSha28&theme=juicyfresh)
+  <a href="https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=juicyfresh">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ## 🎯 Hobbies & Interests
