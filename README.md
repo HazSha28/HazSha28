@@ -1,12 +1,18 @@
+<p align="center">
+  <!-- Awesome animated GitHub profile card -->
+  <img src="https://github-profile-card.vercel.app/api/card?username=HazSha28&theme=midnight&show_icons=true&show_stats=true&animation=true" alt="Ayishathul Hazeena GitHub Profile Card" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20%26%20Management%20Student-36DEFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-36DEFF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building%20with%20Passion-36DEFF?style=for-the-badge&logo=code&logoColor=white" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HazSha28&color=36DEFF&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/HazSha28?style=for-the-badge&logo=github&color=36DEFF&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/HazSha28?style=for-the-badge&logo=github&color=36DEFF&labelColor=000000)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1200&color=36DEFF&center=true&vCenter=true&width=620&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Innovating+with+Tech+and+Management;Full-Stack+Dreamer+with+Big+Ideas;Always+Exploring+New+Technologies;Let%27s+Connect+and+Create+Together!" alt="Animated Welcome" />
+</p>
 
-</div>
----
 
 ## 💡 Technical Skills
 
@@ -28,7 +34,6 @@
 
 ### Backend & Database
 <p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
