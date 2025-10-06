@@ -63,52 +63,43 @@ Whether it's crafting a website, solving a tricky algorithm, or organizing a tea
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
-## 🌐 Coding Platforms
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+### 🌐 Socials:
+<p align="center" style="margin-bottom: 10px;">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazeena-shahul-hameed-b01838292/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tohazsha@gmail.com)
+</p>
 
-<p align="center" style="margin-bottom: 30px;">
+### 🌐 Coding Platforms:
+<p align="center" style="margin-bottom: 10px;">
   <a href="https://github.com/HazSha28" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://codolio.com/profile/Hazeena%20S" title="Codolio"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=flat" alt="Codolio" /></a>
   <a href="https://leetcode.com/u/HAZEENA/" title="LeetCode"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/kit27csbs11" title="CodeChef"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=flat" alt="CodeChef" /></a>
   <a href="https://www.geeksforgeeks.org/user/tohazzwgh/" title="GeeksforGeeks"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=flat" alt="GeeksforGeeks" /></a>
 </p>
+  </tr>
+</table>
+
 
 ## 🌟 Featured Projects
 
-<div align="center" style="max-width: 650px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; background: #f9faff; padding: 20px; border-radius: 15px; box-shadow: 0 8px 20px rgba(54, 110, 255, 0.2);">
-  <h3 style="color: #366aff; margin-bottom: 0.3rem;">
-    <a href="https://hazsha28.github.io/Flavour-Fusion/" style="color: #254eda; text-decoration: none; font-weight: 700;">Flavour Fusion</a>
-  </h3>
-  <p style="font-size: 16px; max-width: 520px; margin: auto; color: #444;">
-    Immerse yourself in a world of flavors. This project allows you to <strong style="color:#1e40af;">explore, create, and share recipes</strong> featuring <strong style="color:#1e40af;">step-by-step video tutorials</strong> and interactive cooking guides.
-  </p>
+<div align="center" style="max-width: 700px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; background: #f0f5ff; padding: 25px; border-radius: 20px; box-shadow: 0 12px 30px rgba(54, 110, 255, 0.3);">
 
-  <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #366aff, #254eda);" />
+  <h3 style="color: #2a51d4; margin-bottom: 0.5rem;">🚀 <a href="https://hazsha28.github.io/Flavour-Fusion/" style="color: #254eda; text-decoration: none; font-weight: 700;">Flavour Fusion</a></h3>
+  <p style="font-size: 16px; max-width: 600px; margin-bottom: 20px; color: #444;">Immerse yourself in a world of flavors. This project allows you to <strong style="color:#1e40af;">explore, create, and share recipes</strong> featuring <strong style="color:#1e40af;">step-by-step video tutorials</strong> and interactive cooking guides.</p>
 
-  <h3 style="color: #366aff; margin-bottom: 0.3rem;">
-    <a href="https://hazsha28.github.io/Todo-App/" style="color: #254eda; text-decoration: none; font-weight: 700;">Todo App</a>
-  </h3>
-  <p style="font-size: 16px; max-width: 520px; margin: auto; color: #444;">
-    Stay organized with ease by managing your daily tasks efficiently. This app offers <strong style="color:#1e40af;">smooth animations</strong>, <strong style="color:#1e40af;">drag-and-drop functionality</strong>, and <strong style="color:#1e40af;">instant feedback</strong> to enhance productivity.
-  </p>
+  <h3 style="color: #2a51d4; margin-bottom: 0.5rem;">📋 <a href="https://hazsha28.github.io/Todo-App/" style="color: #254eda; text-decoration: none; font-weight: 700;">Todo App</a></h3>
+  <p style="font-size: 16px; max-width: 600px; margin-bottom: 20px; color: #444;">Stay organized with ease by managing your daily tasks efficiently. This app offers <strong style="color:#1e40af;">smooth animations</strong>, <strong style="color:#1e40af;">drag-and-drop functionality</strong>, and <strong style="color:#1e40af;">instant feedback</strong> to enhance productivity.</p>
 
-  <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #366aff, #254eda);" />
+  <h3 style="color: #2a51d4; margin-bottom: 0.5rem;">💰 <a href="https://hazsha28.github.io/Expense-Tracker/" style="color: #254eda; text-decoration: none; font-weight: 700;">Expense Tracker</a></h3>
+  <p style="font-size: 16px; max-width: 600px; margin-bottom: 20px; color: #444;">Visualize and manage your finances effectively. This tool helps you <strong style="color:#1e40af;">track, analyze, and control your expenses</strong> with clarity.</p>
 
-  <h3 style="color: #366aff; margin-bottom: 0.3rem;">
-    <a href="https://hazsha28.github.io/Expense-Tracker/" style="color: #254eda; text-decoration: none; font-weight: 700;">Expense Tracker</a>
-  </h3>
-  <p style="font-size: 16px; max-width: 520px; margin: auto; color: #444;">
-    Visualize and manage your finances effectively. This tool helps you <strong style="color:#1e40af;">track, analyze, and control your expenses</strong> with clarity.
-  </p>
+  <h3 style="color: #2a51d4; margin-bottom: 0.5rem;">📚 <a href="https://hadith-master.vercel.app/" style="color: #254eda; text-decoration: none; font-weight: 700;">Hadith Master</a></h3>
+  <p style="font-size: 16px; max-width: 600px; margin-bottom: 0; color: #444;">Enhance your knowledge with ease. This application enables you to <strong style="color:#1e40af;">search, filter, and read Islamic texts</strong>, offering <strong style="color:#1e40af;">AI-powered suggestions, live previews</strong>, and interactive learning tools.</p>
 
-  <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #366aff, #254eda);" />
-
-  <h3 style="color: #366aff; margin-bottom: 0.3rem;">
-    <a href="https://hadith-master.vercel.app/" style="color: #254eda; text-decoration: none; font-weight: 700;">Hadith Master</a>
-  </h3>
-  <p style="font-size: 16px; max-width: 520px; margin: auto; color: #444;">
-    Enhance your knowledge with ease. This application enables you to <strong style="color:#1e40af;">search, filter, and read Islamic texts</strong>, offering <strong style="color:#1e40af;">AI-powered suggestions, live previews</strong>, and interactive learning tools.
-  </p>
 </div>
 
 ## 🏆 Highlights
@@ -123,14 +114,12 @@ Whether it's crafting a website, solving a tricky algorithm, or organizing a tea
 
 # 📊 GitHub Stats:
 
-<!-- You can insert your GitHub stats images here with correct markdown like: -->
-
-<!-- Example: -->
-<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=vue&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
