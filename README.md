@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/3o6MbrWrvGZHSeXZaM/giphy.gif" alt="Light Bulb" width="90"/>
-
+<img src="https://media.giphy.com/media/3oKIPsTfGJg8iv3mcg/giphy.gif" alt="Rocket Launch" width="90"/>
 
 <h1 align="center">Hello World! I'm Ayishathul Hazeena 👋</h1>
 
