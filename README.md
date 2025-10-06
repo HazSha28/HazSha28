@@ -1,21 +1,51 @@
-<!-- Animated name (big, colorful) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F700FF,E9FF00,00FFE7,00A1FF,FF00A6&center=true&vCenter=true&width=480&lines=Ayishathul+Hazeena" alt="Ayishathul Hazeena gradient animated heading">
-</p>
-<!-- Animated short description (smaller, simpler) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=480&lines=Full-Stack+Enthusiast+%7C+Aspiring+Developer" alt="Short description animated">
+  <!-- Replace with your own image if desired -->
+  <img src="https://avatars.githubusercontent.com/u/15198604?v=4" alt="Profile Picture" width="180" style="border-radius:50%;margin-bottom:10px;">
 </p>
 
 <p align="center">
-  <em>"When passion meets purpose, effort becomes excellence — I strive to give my best when I truly care."</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=800&color=36DEFF,FF36DE,DEFF36&center=true&vCenter=true&width=350&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Animated Welcome">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=36DEFF,FF36DE,DEFF36&center=true&vCenter=true&width=500&lines=Ayishathul+Hazeena" alt="Ayishathul Hazeena animated heading">
+</p>
+<p align="center" style="font-size:20px;">
+  Computer Science & Business Systems Undergraduate · Full-Stack Enthusiast · Aspiring Software Developer
 </p>
 
 ---
 
-# Hi there 👋
-
 I love building things that make life easier, spark curiosity, and connect people. Whether it's crafting a website, solving a tricky algorithm, or organizing a team project, I'm always up for a challenge!
+
+---
+
+## 💡 Skills & Technologies
+
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Concepts:**  
+- OOP (Java)
+- DBMS
+- Data Structures & Algorithms
+- UI/UX
+- Operating Systems
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ---
 
