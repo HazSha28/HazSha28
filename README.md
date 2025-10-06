@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=Ayishathul+Hazeena" alt="Ayishathul Hazeena animated heading">
 </p>
 
+<p align="center">
+  <em>"When passion meets purpose, effort becomes excellence — I strive to give my best when I truly care."</em>
+</p>
+
+---
+
 # Hi there 👋
 
 💻 **Computer Science & Business Systems Undergraduate**
@@ -16,14 +22,16 @@ I love building things that make life easier, spark curiosity, and connect peopl
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![HazSha28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=default&hide_border=true" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=default&hide_border=true" height="150px" />
+</p>
 
 ---
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
 🔹 [**Flavour Fusion**](https://hazsha28.github.io/Flavour-Fusion/) 🍲  
 A platform for discovering and sharing recipes from around the world.
@@ -39,24 +47,26 @@ A web app dedicated to preserving and making accessible Islamic texts.
 
 ---
 
-## 📈 Highlights
+## 🏆 Highlights
 
-* Full Stack Development Intern @ Learnlogicify Technologies
-* Infosys Certified in **Java Programming**
-* NPTEL certified in **Problem Solving with C, DBMS, and Computer Networks**
-* **2700/3000** in CodeChef C Test (90% Skill Score)
-* Regular participant in global programming contests (CodeChef)
+ Full Stack Development Intern @ Learnlogicify Technologies  
+ Infosys Certified in **Java Programming**  
+ NPTEL certified in **Problem Solving with C, DBMS, and Computer Networks**  
+ **2700/3000** in CodeChef C Test (90% Skill Score)  
+ Regular participant in global programming contests (CodeChef)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hazeena-shahul-hameed-b01838292)
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?logo=github&style=for-the-badge)](https://github.com/HazSha28)
-[![Codolio](https://img.shields.io/badge/Codolio-1a1a1a?style=for-the-badge)](https://codolio.com/profile/Hazeena%20S)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/HAZEENA/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge)](https://www.codechef.com/users/kit27csbs11)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/tohazzwgh/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hazeena-shahul-hameed-b01838292"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://github.com/HazSha28"><img src="https://img.shields.io/badge/GitHub-24292F?logo=github&style=for-the-badge" /></a>
+  <a href="https://codolio.com/profile/Hazeena%20S"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/HAZEENA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" /></a>
+  <a href="https://www.codechef.com/users/kit27csbs11"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.geeksforgeeks.org/user/tohazzwgh/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -67,7 +77,3 @@ When I’m not coding, you’ll find me volunteering with Toastmasters, creating
 ---
 
 ⭐ *“Striving to merge innovation with impact, one project at a time.”*
-
----
-
-> *When passion meets purpose, effort becomes excellence — I strive to give my best when I truly care.*
