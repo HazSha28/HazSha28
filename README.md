@@ -9,8 +9,8 @@ I love building things that make life easier, spark curiosity, and connect peopl
 ## 🚀 Skills & Technologies
 
 * **Languages:** C, Java, HTML, CSS, JavaScript, React JS
-* **Concepts:** OOP (Java), DBMS, SQL, Data Structures & Algorithms, UI/UX, DevOps, Operating Systems
-* **Tools:** Git, GitHub, VS Code, Power BI
+* **Concepts:** OOP (Java), DBMS, SQL, Data Structures & Algorithms, UI/UX, Operating Systems
+* **Tools:** Git, GitHub, VS Code, Power BI ,Maven
 
 ---
 
