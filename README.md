@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l2JhBhn6bLPG13T6A/giphy.gif" alt="Coding Laptop" width="90"/>
-</p>
+<img src="https://media.giphy.com/media/3o6MbrWrvGZHSeXZaM/giphy.gif" alt="Light Bulb" width="90"/>
+
 
 <h1 align="center">Hello World! I'm Ayishathul Hazeena 👋</h1>
-
-<p align="center">
-  Tech & Management Student | Full-Stack Enthusiast | Building with Passion | Always Learning New Things
-</p>
 
 <p align="center">
   <i>"When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i>
