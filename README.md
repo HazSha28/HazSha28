@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4af37&height=180&section=header&text=AYISHATHUL%20HAZEENA&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=shaking&color=d4af37&height=180&section=header&text=AYISHATHUL%20HAZEENA&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36DEFF&center=true&vCenter=true&width=800&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Typing Roles Animation" />
@@ -94,7 +93,7 @@ I love building things that make life easier, spark curiosity, and connect peopl
 
 ## 🏆 GitHub Trophies
 <p align="center">
- [ ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=HazSha28&theme=juicyfresh)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=HazSha28&theme=juicyfresh)
 </p>
 
 ## 🎯 Hobbies & Interests
