@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="50"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="90"/>
 </p>
 
 <p align="center">
@@ -60,10 +60,10 @@
 🔹 [**Flavour Fusion**](https://hazsha28.github.io/Flavour-Fusion/) 🍲  
 A platform for discovering and sharing recipes from around the world, complete with video tutorials and step-by-step guides.
 
-🔹 [**Todo App**](#) ✅  
+🔹 [**Todo App**](https://hazsha28.github.io/Todo-App/) ✅  
 A simple and intuitive task manager that helps users organize daily tasks efficiently.
 
-🔹 [**Expense Tracker**](#) 💸  
+🔹 [**Expense Tracker**](https://hazsha28.github.io/Expense-Tracker/) 💸  
 A web application to monitor and manage expenses, analyze spending habits, and set financial goals.
 
 🔹 [**Hadith Master**](https://hadith-master.vercel.app/) 📖  
