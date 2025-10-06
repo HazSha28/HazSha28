@@ -1,23 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36DEFF&height=200&section=header&text=Ayishathul%20Hazeena&fontSize=60&fontAlignY=35&desc=Full-Stack%20Enthusiast%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=36DEFF&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36DEFF&height=200&section=header&text=Ayishathul%20Hazeena&fontSize=60&fontAlignY=35&desc=Passionate%20Tech%20%26%20Management%20Student%20%7C%20Full-Stack%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=36DEFF&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36DEFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Ayishathul+Hazeena;Full-Stack+Enthusiast+%7C+Aspiring+Software+Developer;Building+Modern+Web+Apps;DSA+%26+Problem+Solving+Fan" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=HazSha28&color=36DEFF&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/HazSha28?style=for-the-badge&logo=github&color=36DEFF&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/HazSha28?style=for-the-badge&logo=github&color=36DEFF&labelColor=000000)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36DEFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Ayishathul+Hazeena;Passionate+Tech+%26+Management+Student;Full-Stack+Enthusiast+%7C+Aspiring+Software+Developer;Building+Modern+Web+Apps;DSA+%26+Problem+Solving+Fan" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-Passionate learner and developer who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
-Currently working with **JavaScript, React, Firebase, MongoDB, Java, C, SQL** and always excited to learn more!
+**I love building things that make life easier, spark curiosity, and connect people. Whether it's crafting a website, solving a tricky algorithm, or organizing a team project, I'm always up for a challenge!**
 
 </div>  
 
@@ -67,10 +58,17 @@ Currently working with **JavaScript, React, Firebase, MongoDB, Java, C, SQL** an
 
 ## 🌟 Featured Projects  
 
-- **Flavour Fusion** – Discover and share recipes  
-- **Todo App** – Organize daily tasks
-- **Expense Tracker** – Track and analyze expenses
-- **Hadith Master** – Islamic texts made accessible
+🔹 [**Flavour Fusion**](https://hazsha28.github.io/Flavour-Fusion/) 🍲  
+A platform for discovering and sharing recipes from around the world, complete with video tutorials and step-by-step guides.
+
+🔹 [**Todo App**](#) ✅  
+A simple and intuitive task manager that helps users organize daily tasks efficiently.
+
+🔹 [**Expense Tracker**](#) 💸  
+A web application to monitor and manage expenses, analyze spending habits, and set financial goals.
+
+🔹 [**Hadith Master**](https://hadith-master.vercel.app/) 📖  
+A web app dedicated to preserving and making accessible traditional Islamic texts for everyone.
 
 ---
 
@@ -130,7 +128,10 @@ Currently working with **JavaScript, React, Firebase, MongoDB, Java, C, SQL** an
 <p align="left">
   <a href="https://github.com/HazSha28"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hazeena-shahul-hameed-b01838292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/Hazeena%20S"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/HAZEENA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" /></a>
+  <a href="https://www.codechef.com/users/kit27csbs11"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.geeksforgeeks.org/user/tohazzwgh/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge" /></a>
 </p>  
 
 ---
