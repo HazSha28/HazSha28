@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Ayishathul Hazeena
 
-![Progress](https://img.shields.io/badge/Project--In--Progress-70%25-yellow?style=for-the-badge)
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
 
 💻 **Computer Science & Business Systems Undergraduate | Aspiring Software Developer | Full-Stack Enthusiast**
 
@@ -31,13 +31,16 @@ A web application to monitor and manage expenses, analyze spending habits, and s
 A web app dedicated to preserving and making accessible traditional Islamic texts for everyone.
 
 ---
-
 ## 📊 GitHub Stats
 
-![HazSha28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=radical)
+![HazSha28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=tokyonight&bg_color=0,0d1117,191970&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=tokyonight&bg_color=0,0d1117,191970&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=HazSha28&theme=tokyonight&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HazSha28&theme=onestar&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Snake animation](https://github.com/HazSha28/HazSha28/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 Highlights
 
