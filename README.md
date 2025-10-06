@@ -1,10 +1,17 @@
-<img src="https://media.giphy.com/media/l2JhBhn6bLPG13T6A/giphy.gif" alt="Coding Laptop" width="180"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/l2JhBhn6bLPG13T6A/giphy.gif" alt="Coding Laptop" width="90"/>
+</p>
 
-
-<h1 align="center">Hello World! I'm Ayishathul Hazeena 👋</h1>
+<h1 align="center" style="font-weight:bold; color:#36DEFF;">
+  Ayishathul Hazeena 👋
+</h1>
 
 <p align="center">
-  <i>"When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36DEFF&center=true&vCenter=true&width=800&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Typing Roles Animation" />
+</p>
+
+<p align="center" style="font-style:italic; color:#4B4B4B;">
+  "When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."
 </p>
 
 <p align="center">
@@ -12,6 +19,7 @@
   <img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-36DEFF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Building%20with%20Passion-36DEFF?style=for-the-badge&logo=code&logoColor=white" />
 </p>
+
 
 
 ## ✨ About Me
