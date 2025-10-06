@@ -1,5 +1,5 @@
 <p align="center">
-  ![Header](./github-header-banner-1.jpg)
+  <img src="./github-header-banner-1.jpg" alt="Header"/>
 </p>
 
 <h1 align="center" style="font-weight:bold; color:#36DEFF;">
