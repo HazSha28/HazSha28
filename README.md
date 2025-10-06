@@ -1,5 +1,5 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=timeGradient&text=Ayishathul%20Hazeena&fontColor=FFFFFF&fontSize=44&animation=twinkling&descAlignY=78&descAlign=76&descSize=20&textBg=false&strokeWidth=1&fontAlign=50&stroke=000000" alt="Ayishathul Hazeena animated banner" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36DEFF&center=true&vCenter=true&width=800&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Typing Roles Animation" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=Hello,%20I'm%20Ayishathul%20Hazeena&fontColor=FFFFFF&fontSize=44&animation=twinkling&descAlignY=78&descAlign=76&descSize=20&textBg=false&strokeWidth=1&fontAlign=50&stroke=000000" alt="Hello, I'm Ayishathul Hazeena" />
 </p>
 
 <p align="center" style="font-style:italic; color:#4B4B4B;">
