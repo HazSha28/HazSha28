@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36DEFF&height=200&section=header&text=Ayishathul%20Hazeena&fontSize=60&desc=Passionate%20Tech%20%26%20Management%20Student%20%7C%20Full-Stack%20Enthusiast&descAlign=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=36DEFF&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36DEFF&height=200&section=header&text=Ayishathul%20Hazeena&fontSize=60&desc=Passionate%20Tech%20%26%20Management%20Student%20%7C%20Full-Stack%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=36DEFF&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36DEFF&center=true&vCenter=true&width=600&lines=+Passionate+Tech+%26+Management+Student;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36DEFF&center=true&vCenter=true&width=600&lines=Passionate+Tech+%26+Management+Student;🚀+Building+Modern+Web+Applications;+Full-Stack+Development+Lover;+DSA+%26+Problem+Solving+Fan;+Always+Exploring+New+Technologies" alt="Typing SVG" />
 
 </div>
 
