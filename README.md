@@ -42,21 +42,21 @@ I love building things that make life easier, spark curiosity, and connect peopl
 <table width="100%" style="max-width:700px; margin: 0; border-collapse: collapse; text-align: left;">
   <tr>
     <td valign="top" style="padding: 12px; width:33%;">
-      **Languages**<br/>
+      Programming Languages<br/>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /><br/>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
     </td>
     <td valign="top" style="padding: 12px; width:33%;">
-      **Frontend**<br/>
+      Frontend<br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     </td>
     <td valign="top" style="padding: 12px; width:33%;">
-      **Backend & Tools**<br/>
+      Backend & Tools<br/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/>
@@ -92,7 +92,13 @@ I love building things that make life easier, spark curiosity, and connect peopl
 - **NPTEL Certified** in *Problem Solving with C, DBMS, and Computer Networks*.  
 - **2700 / 3000** in *CodeChef C Test* (90% Skill Score).  
 - Regular participant in global programming contests on *CodeChef*.
-
+  
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=juicyfresh">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
 ## 🎯 Hobbies & Interests
 
 <div style="max-width: 700px; margin: 26px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; font-size: 15.5px; line-height: 1.6;">
@@ -103,9 +109,8 @@ I love building things that make life easier, spark curiosity, and connect peopl
   <p><strong>Travel and Culture:</strong> Experiencing new places and cultures to broaden perspectives and fuel inspiration.</p>
 </div>
 
-<!-- Fun fact aligned left -->
+## Fun Fact
 <p style="max-width: 700px; margin: 26px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; font-size: 15.5px; line-height: 1.6; text-align: left;">
-  <b>Fun Fact</b><br />
   <i>"Striving to merge innovation with impact, one project at a time!"</i>
 </p>
 
