@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/3oKIPsTfGJg8iv3mcg/giphy.gif" alt="Rocket Launch" width="90"/>
+<img src="https://media.giphy.com/media/l2JhBhn6bLPG13T6A/giphy.gif" alt="Coding Laptop" width="180"/>
+
 
 <h1 align="center">Hello World! I'm Ayishathul Hazeena 👋</h1>
 
