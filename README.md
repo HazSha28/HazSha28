@@ -29,12 +29,6 @@ I love building things that make life easier, spark curiosity, and connect peopl
 ---
 [![](https://visitcount.itsvg.in/api?id=HazSha28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Socials (left column) and Coding Platforms (right column) side-by-side -->
-<table width="100%" cellpadding="8" style="max-width: 700px; margin: 0;">
-  <tr>
-    <td width="50%" valign="top" style="text-align: left;">
-
 ### 🌐 Coding Platforms
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/HazSha28)  
@@ -42,11 +36,6 @@ I love building things that make life easier, spark curiosity, and connect peopl
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat)](https://leetcode.com/u/HAZEENA/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=flat)](https://www.codechef.com/users/kit27csbs11)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=flat)](https://www.geeksforgeeks.org/user/tohazzwgh/)
-    </td>
-  </tr>
-</table>
-
----
 
 ## 💡 Technical Skills
 
@@ -104,13 +93,23 @@ I love building things that make life easier, spark curiosity, and connect peopl
 - **2700 / 3000** in *CodeChef C Test* (90% Skill Score).  
 - Regular participant in global programming contests on *CodeChef*.
 
+## 🎯 Hobbies & Interests
 
-**Fun Fact**  
-_"Striving to merge innovation with impact, one project at a time!"_
+<div style="max-width: 700px; margin: 26px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; font-size: 15.5px; line-height: 1.6;">
+  <p><strong>Exploring emerging technologies:</strong> Staying updated with the latest trends and tools in software development.</p>
+  <p><strong>Public Speaking:</strong> Actively participating in clubs like Toastmasters to hone communication and leadership skills.</p>
+  <p><strong>Creative Design:</strong> Designing graphics, fonts, and UI elements as a creative outlet and to enhance user experiences.</p>
+  <p><strong>Puzzles and Problem Solving:</strong> Enjoying brain teasers, coding contests, and algorithm challenges to sharpen logical thinking.</p>
+  <p><strong>Travel and Culture:</strong> Experiencing new places and cultures to broaden perspectives and fuel inspiration.</p>
+</div>
 
----
+<!-- Fun fact aligned left -->
+<p style="max-width: 700px; margin: 26px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; font-size: 15.5px; line-height: 1.6; text-align: left;">
+  <b>Fun Fact</b><br />
+  <i>"Striving to merge innovation with impact, one project at a time!"</i>
+</p>
 
-<!-- Footer (centered) -->
-<p align="center" style="margin-top: 18px;">
+<!-- Centered footer -->
+<p align="center" style="margin-top: 30px;">
   ⭐ From <a href="https://github.com/HazSha28">HazSha28</a>
 </p>
