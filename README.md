@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-36DEFF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Building%20with%20Passion-36DEFF?style=for-the-badge&logo=code&logoColor=white" />
 </p>
----
-## About Me 
+
+## ✨ About Me
 
 I love building things that make life easier, spark curiosity, and connect people.  
 Whether it's crafting a **website**, solving a **tricky algorithm**, or organizing a **team project**, I'm always up for a **challenge**! 
@@ -54,15 +54,6 @@ Whether it's crafting a **website**, solving a **tricky algorithm**, or organizi
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
-## 🌟 Project Highlights
-
-| Feature | Animation |
-|---------|-----------|
-| **Full-Stack Development** | ![Full-Stack](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) |
-| **AI-Powered Analytics** | ![AI](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
-| **Real-Time Collaboration** | ![Collaboration](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif) |
-| **Intuitive UI/UX** | ![UI/UX](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif) |
-
 ## 🌟 Featured Projects
 
 <table>
@@ -105,7 +96,6 @@ Whether it's crafting a **website**, solving a **tricky algorithm**, or organizi
 </table>
 
 ## 🏆 Highlights
-<p align="center"> <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Trophy Animation" width="80"/> </p>
 
 Full Stack Development Intern @ Learnlogicify Technologies
 
