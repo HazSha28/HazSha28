@@ -1,5 +1,10 @@
+<!-- Animated name (big, colorful) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F700FF,E9FF00,00FFE7,00A1FF,FF00A6&center=true&vCenter=true&width=700&lines=Ayishathul+Hazeena;Computer+Science+%26+Business+Systems+Undergraduate+%7C+Full-Stack+Enthusiast+%7C+Aspiring+Software+Developer" alt="Ayishathul Hazeena gradient animated heading">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F700FF,E9FF00,00FFE7,00A1FF,FF00A6&center=true&vCenter=true&width=480&lines=Ayishathul+Hazeena" alt="Ayishathul Hazeena gradient animated heading">
+</p>
+<!-- Animated short description (smaller, simpler) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=480&lines=Full-Stack+Enthusiast+%7C+Aspiring+Developer" alt="Short description animated">
 </p>
 
 <p align="center">
