@@ -27,19 +27,16 @@ I love building things that make life easier, spark curiosity, and connect peopl
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=HazSha28&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- GitHub contribution calendar (live) -->
-<p align="center">
-  <img src="https://github-contributions.azurewebsites.net/image?user=HazSha28&theme=vue" alt="GitHub Contributions Calendar" />
-</p>
-
 
 ## 🌐 Coding Platforms
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/HazSha28)  
-[![Codolio](https://img.shields.io/badge/Codolio-1a1a1a?style=flat)](https://codolio.com/profile/Hazeena%20S)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat)](https://leetcode.com/u/HAZEENA/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=flat)](https://www.codechef.com/users/kit27csbs11)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=flat)](https://www.geeksforgeeks.org/user/tohazzwgh/)
+<p style="margin: 6px 0;">
+  <a href="https://github.com/HazSha28" title="GitHub" style="margin-right:8px;"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://codolio.com/profile/Hazeena%20S" title="Codolio" style="margin-right:8px;"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=flat" alt="Codolio" /></a>
+  <a href="https://leetcode.com/u/HAZEENA/" title="LeetCode" style="margin-right:8px;"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/kit27csbs11" title="CodeChef" style="margin-right:8px;"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=flat" alt="CodeChef" /></a>
+  <a href="https://www.geeksforgeeks.org/user/tohazzwgh/" title="GeeksforGeeks" style="margin-right:8px;"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=flat" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/" title="HackerRank" style="margin-right:8px;"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat" alt="HackerRank" /></a>
+</p>
 
 ## 💡 Technical Skills
 
