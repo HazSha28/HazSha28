@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=fadeUp&color=d4af37&height=180&section=header&text=AYISHATHUL%20HAZEENA&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4af37&height=180&section=header&text=AYISHATHUL%20HAZEENA&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
 
