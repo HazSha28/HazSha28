@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/Building%20with%20Passion-36DEFF?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2700&pause=1200&color=36DEFF&center=true&vCenter=true&width=950&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Animated Welcome Banner" />
-</p>
+<p align="center"> <i>"When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i> </p> <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="90"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2700&pause=1200&color=36DEFF&center=true&vCenter=true&width=950&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Animated Welcome Banner" /> </p>
 
 ---
 
@@ -55,47 +53,8 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td align="center" width="290">
-      <a href="https://hazsha28.github.io/Flavour-Fusion/">
-        <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Flavour Fusion" width="120"/><br/>
-        <b>Flavour Fusion</b>
-      </a>
-      <br/>
-      <span>🍲 Discover and share recipes with video tutorials and guides.</span>
-    </td>
-    <td align="center" width="290">
-      <a href="https://hazsha28.github.io/Todo-App/">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Todo App" width="120"/><br/>
-        <b>Todo App</b>
-      </a>
-      <br/>
-      <span>✅ Organize daily tasks with a simple, intuitive manager.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="290">
-      <a href="https://hazsha28.github.io/Expense-Tracker/">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/3oKIPwoeGErMmaI43C/giphy.gif" alt="Expense Tracker" width="120"/><br/>
-        <b>Expense Tracker</b>
-      </a>
-      <br/>
-      <span>💸 Track, analyze, and manage your expenses visually.</span>
-    </td>
-    <td align="center" width="290">
-      <a href="https://hadith-master.vercel.app/">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hadith Master" width="120"/><br/>
-        <b>Hadith Master</b>
-      </a>
-      <br/>
-      <span>📖 Accessible platform for traditional Islamic texts.</span>
-    </td>
-  </tr>
-</table>
----
+🌟 Featured Projects
+<table> <tr> <td align="center" width="290"> <a href="https://hazsha28.github.io/Flavour-Fusion/"> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Flavour Fusion" width="120"/><br/> <b>Flavour Fusion</b> </a> <br/> <span>🍲 Discover and share recipes with <b>interactive video tutorials</b>.</span> </td> <td align="center" width="290"> <a href="https://hazsha28.github.io/Todo-App/"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Todo App" width="120"/><br/> <b>Todo App</b> </a> <br/> <span>✅ Manage tasks with <b>drag-and-drop animations</b> and smooth transitions.</span> </td> </tr> <tr> <td align="center" width="290"> <a href="https://hazsha28.github.io/Expense-Tracker/"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/3oKIPwoeGErMmaI43C/giphy.gif" alt="Expense Tracker" width="120"/><br/> <b>Expense Tracker</b> </a> <br/> <span>💸 Visualize expenses with <b>animated charts and graphs</b>.</span> </td> <td align="center" width="290"> <a href="https://hadith-master.vercel.app/"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hadith Master" width="120"/><br/> <b>Hadith Master</b> </a> <br/> <span>📖 Search and explore texts with <b>interactive filters</b> and AI-driven summaries.</span> </td> </tr> </table>
 
 ## 🏆 Highlights
 
