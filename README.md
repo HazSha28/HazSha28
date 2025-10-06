@@ -1,10 +1,16 @@
-<p align="center">
-  <img src="./github-header-banner-1.jpg" alt="Header"/>
-</p>
+<!-- Inspired by Uiverse.io, restyled and personalized -->
+<div class="group duration-500 hover:-skew-x-0 skew-x-6 hover:translate-x-2">
+  <div class="group-hover:duration-400 relative rounded-2xl w-80 h-40 bg-gradient-to-tr from-blue-700 via-indigo-600 to-purple-500 shadow-xl text-white flex flex-col justify-center items-center gap-1
+    before:-skew-x-12 before:rounded-2xl before:absolute before:bg-gradient-to-br from-purple-900 to-indigo-800 before:right-3 before:top-0 before:w-80 before:h-36 before:-z-10">
+    <span class="text-5xl font-extrabold drop-shadow-lg tracking-wide">
+      Ayishathul Hazeena
+    </span>
+    <p class="text-xl font-semibold text-yellow-300 drop-shadow-sm mt-2">
+      Tech and Management Enthusiast
+    </p>
+  </div>
+</div>
 
-<h1 align="center" style="font-weight:bold; color:#36DEFF;">
-  Ayishathul Hazeena 👋
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36DEFF&center=true&vCenter=true&width=800&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Typing Roles Animation" />
