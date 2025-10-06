@@ -9,6 +9,11 @@
 <p align="center"> <i>"When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i> </p> <p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="90"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2700&pause=1200&color=36DEFF&center=true&vCenter=true&width=950&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Animated Welcome Banner" /> </p>
 
 ---
+## About Me 
+
+I love building things that make life easier, spark curiosity, and connect people.  
+Whether it's crafting a **website**, solving a **tricky algorithm**, or organizing a **team project**, I'm always up for a **challenge**! 
+
 
 ## 💡 Technical Skills
 
