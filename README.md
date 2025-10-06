@@ -1,13 +1,19 @@
-
-<p align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="90"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2700&pause=1200&color=36DEFF&center=true&vCenter=true&width=950&lines=Hello+World!+I'm+Ayishathul+Hazeena+%F0%9F%91%8B;Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Animated Welcome Banner" /> </p>
-
-<p align="center"> <i>"When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="90"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20%26%20Management%20Student-36DEFF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-36DEFF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Building%20with%20Passion-36DEFF?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=800&color=36DEFF&center=true&vCenter=true&width=900&lines=✨+Hello,+I'm+Ayishathul+Hazeena!+✨" alt="Name Banner"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Subtitle Banner"/>
+</p>
+
+<p align="center">
+  <i>"When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i>
+</p>
+
 
 ## ✨ About Me
 
