@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/HazSha28/HazSha28/raw/main/path/to/github-header-banner-1.jpg" alt="Profile Banner" />
+</p>
 
 <h1 align="center" style="font-weight:bold; color:#36DEFF;">
   Ayishathul Hazeena 👋
@@ -94,12 +97,8 @@ I love building things that make life easier, spark curiosity, and connect peopl
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)
-</p>
-
-<p align="center">
-  [![Profile Visit Count](https://visitcount.itsvg.in)](https://visitcount.itsvg.in)
+[<p align="center">
+ [ ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=HazSha28&theme=juicyfresh)
 </p>
 
 ## 🎯 Hobbies & Interests
