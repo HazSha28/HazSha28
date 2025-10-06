@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ayishathul%20Hazeena&fontColor=White&fontSize=44&animation=twinkling&descAlignY=78&descAlign=76&descSize=20&textBg=false&fontAlign=50
+<p align="center"> <a href="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ayishathul%20Hazeena&fontColor=White&fontSize=44&animation=twinkling&descAlignY=78&descAlign=76&descSize=20&textBg=false&fontAlign=50"> <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ayishathul%20Hazeena&fontColor=White&fontSize=44&animation=twinkling&descAlignY=78&descAlign=76&descSize=20&textBg=false&fontAlign=50" alt="Ayishathul Hazeena banner" /> </a> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36DEFF&center=true&vCenter=true&width=800&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Typing Roles Animation" />
 </p>
