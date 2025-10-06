@@ -24,7 +24,6 @@ I love building things that make life easier, spark curiosity, and connect peopl
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazeena-shahul-hameed-b01838292/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:tohazsha@gmail.com)  
-<a href="https://github.com/HazSha28"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
 
 ## 💡 Technical Skills
 
@@ -65,25 +64,14 @@ I love building things that make life easier, spark curiosity, and connect peopl
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hazsha28&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hazsha28&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazsha28&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hazsha28&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Hazsha28&icon=6&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
+## 🌐 Coding platforms
+<p align="left">
+  <a href="https://github.com/HazSha28"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/Hazeena%20S"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=plastic" /></a>
+  <a href="https://leetcode.com/u/HAZEENA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=plastic" /></a>
+  <a href="https://www.codechef.com/users/kit27csbs11"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=plastic" /></a>
+  <a href="https://www.geeksforgeeks.org/user/tohazzwgh/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=plastic" /></a>
+</p>
 ## 🌟 Featured Projects
 
 <table>
@@ -137,14 +125,22 @@ NPTEL certified in Problem Solving with C, DBMS, and Computer Networks
 
 Regular participant in global programming contests (CodeChef)
 
-
-## 🌐 Coding platforms
-<p align="left">
-  <a href="https://codolio.com/profile/Hazeena%20S"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=plastic" /></a>
-  <a href="https://leetcode.com/u/HAZEENA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=plastic" /></a>
-  <a href="https://www.codechef.com/users/kit27csbs11"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=plastic" /></a>
-  <a href="https://www.geeksforgeeks.org/user/tohazzwgh/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=plastic" /></a>
+# 📊 GitHub Stats:
+<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=Hazsha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hazsha28&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazsha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hazsha28&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hazsha28&icon=6&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
   <b>Fun Fact</b><br>
