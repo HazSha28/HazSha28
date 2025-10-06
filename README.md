@@ -1,8 +1,10 @@
 # Hi there 👋, I’m Ayishathul Hazeena
 
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+
 💻 **Computer Science & Business Systems Undergraduate | Aspiring Software Developer | Full-Stack Enthusiast**
 
-I love building things that make life easier, spark curiosity, and connect people. Whether it's crafting a website, solving a tricky algorithm, or organizing a team project, I'm always up for a challenge and eager to learn something new.
+I love building things that make life easier, spark curiosity, and connect people. Whether it's crafting a website, solving a tricky algorithm, or organizing a team project, I'm always up for a challenge!
 
 ---
 
@@ -19,11 +21,21 @@ I love building things that make life easier, spark curiosity, and connect peopl
 🔹 [**Flavour Fusion**](https://hazsha28.github.io/Flavour-Fusion/) 🍲  
 A platform for discovering and sharing recipes from around the world, complete with video tutorials and step-by-step guides.
 
-🔹 [**LitLane**](https://litlane.vercel.app/) ✍️ *(In Progress)*  
-A creative community for readers and writers, offering personalized content and author tools.
+🔹 [**Todo App**](#) ✅  
+A simple and intuitive task manager that helps users organize daily tasks efficiently.
+
+🔹 [**Expense Tracker**](#) 💸  
+A web application to monitor and manage expenses, analyze spending habits, and set financial goals.
 
 🔹 [**Hadith Master**](https://hadith-master.vercel.app/) 📖 *(In Progress)*  
 A web app dedicated to preserving and making accessible traditional Islamic texts for everyone.
+
+---
+
+## 📊 GitHub Stats
+
+![HazSha28's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=radical)
 
 ---
 
