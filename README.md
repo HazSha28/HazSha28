@@ -1,112 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Clickable Card - AH Toggle</title>
-  <style>
-    .card {
-      width: 300px;
-      height: 200px;
-      background: linear-gradient(135deg, #1f2a33, #2e3e46);
-      position: relative;
-      display: grid;
-      place-content: center;
-      border-radius: 12px;
-      overflow: hidden;
-      transition: all 0.4s ease-in-out;
-      cursor: pointer;
-      box-shadow: 0 8px 15px rgba(189, 159, 103, 0.4);
-      outline: none;
-    }
-
-    .border {
-      position: absolute;
-      inset: 0;
-      border: 2px solid #d4af37;
-      opacity: 0.75;
-      transform: rotate(10deg);
-      transition: all 0.4s ease-in-out;
-      box-shadow: 0 0 8px #d4af37;
-    }
-
-    .card:hover .border,
-    .card:focus .border {
-      inset: 10px;
-      opacity: 1;
-      transform: rotate(0);
-      box-shadow: 0 0 15px #ffde7a;
-    }
-
-    .text-display {
-      color: #d4af37;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      font-weight: 700;
-      text-align: center;
-      width: 90%;
-      line-height: 1.3;
-      user-select: none;
-      text-shadow: 0 0 6px #ffde7a;
-      transition: font-size 0.3s ease, letter-spacing 0.3s ease;
-    }
-
-    .text-small {
-      font-size: 56px;
-      letter-spacing: 10px;
-    }
-
-    .text-large {
-      font-size: 16px;
-      letter-spacing: 2.5px;
-      word-break: break-word;
-    }
-  </style>
-</head>
-<body>
-  <div class="card" id="toggleCard" aria-pressed="false" role="button" tabindex="0" title="Click to toggle text">
-    <div class="border"></div>
-    <div class="content">
-      <div class="text-display text-small" id="textDisplay">AH</div>
-    </div>
-  </div>
-
-  <script>
-    const card = document.getElementById('toggleCard');
-    const textDisplay = document.getElementById('textDisplay');
-
-    const shortText = "AH";
-    const fullText = "AYISHATHUL HAZEENA a tech and management enthusiast";
-
-    card.addEventListener('click', () => {
-      if (card.getAttribute('aria-pressed') === 'false') {
-        textDisplay.textContent = fullText;
-        textDisplay.classList.remove('text-small');
-        textDisplay.classList.add('text-large');
-        card.setAttribute('aria-pressed', 'true');
-      } else {
-        textDisplay.textContent = shortText;
-        textDisplay.classList.remove('text-large');
-        textDisplay.classList.add('text-small');
-        card.setAttribute('aria-pressed', 'false');
-      }
-    });
-
-    card.addEventListener('keydown', (e) => {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
-        card.click();
-      }
-    });
-  </script>
-</body>
-</html>
+![Glowing Text](https://img.shields.io/badge/AYISHATHUL--HAZEENA-%23d4af37?style=for-the-badge&logo=data:,)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36DEFF&center=true&vCenter=true&width=800&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Typing Roles Animation" />
 </p>
 
 <p align="center" style="font-style:italic; color:#4B4B4B;">
-  "When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."
+ <i> "When passion meets purpose, effort becomes excellence – I strive to give my best when I truly care."</i>
 </p>
 
 <p align="center">
