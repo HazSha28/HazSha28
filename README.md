@@ -1,9 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36DEFF&height=200&section=header&text=Ayishathul%20Hazeena&fontSize=60&desc=Passionate%20Tech%20%26%20Management%20Student%20%7C%20Full-Stack%20Enthusiast&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=36DEFF&strokeWidth=2" alt="Header" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36DEFF&height=200&section=header&text=Ayishathul%20Hazeena&fontSize=60&desc=Passionate%20Tech%20%26%20Management%20Student%20%7C%20Full-Stack%20Enthusiast&descAlign=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=36DEFF&strokeWidth=2" alt="Header" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36DEFF&center=true&vCenter=true&width=600&lines=+Passionate+Tech+%26+Management+Student;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36DEFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Ayishathul+Hazeena;Passionate+Tech+%26+Management+Student;Full-Stack+Enthusiast+%7C+Aspiring+Software+Developer;Building+Modern+Web+Apps;DSA+%26+Problem+Solving+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36DEFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Ayishathul+Hazeena;Passionate+Tech+%26+Management+Student;Full-Stack+Development+Lover;Empowering+Ideas+with+Code;Always+Exploring+New+Technologies;Problem+Solving+is+my+Jam;Connecting+People+Through+Tech;Curious+Mind+%7C+Creative+Spirit" alt="Typing SVG" />
 </p>
 
 <div align="center">
