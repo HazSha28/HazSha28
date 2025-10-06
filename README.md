@@ -74,31 +74,43 @@ I love building things that make life easier, spark curiosity, and connect peopl
 
 ## 🌟 Featured Projects
 
-<div align="center" style="max-width: 650px; margin: auto; font-family: Arial, sans-serif; color: #333;"> <h3><a href="https://hazsha28.github.io/Flavour-Fusion/" style="color: #2c7be5; text-decoration: none; font-weight: bold;">Flavour Fusion</a></h3> <p style="font-size: 16px; max-width: 500px; margin: auto;"> Immerse yourself in a world of flavors. This project allows you to <strong>explore, create, and share recipes</strong> featuring <strong>step-by-step video tutorials</strong> and interactive cooking guides. </p> <hr style="margin: 2rem 0; border: none; height: 1px; background-color: #eee;" /> <h3><a href="https://hazsha28.github.io/Todo-App/" style="color: #2c7be5; text-decoration: none; font-weight: bold;">Todo App</a></h3> <p style="font-size: 16px; max-width: 500px; margin: auto;"> Stay organized with ease by managing your daily tasks efficiently. This app offers <strong>smooth animations, drag-and-drop functionality</strong>, and <strong>instant feedback</strong> to enhance productivity. </p> <hr style="margin: 2rem 0; border: none; height: 1px; background-color: #eee;" /> <h3><a href="https://hazsha28.github.io/Expense-Tracker/" style="color: #2c7be5; text-decoration: none; font-weight: bold;">Expense Tracker</a></h3> <p style="font-size: 16px; max-width: 500px; margin: auto;"> Visualize and manage your finances effectively. This tool helps you <strong>track, analyze, and control your expenses</strong> with clarity. </p> <hr style="margin: 2rem 0; border: none; height: 1px; background-color: #eee;" /> <h3><a href="https://hadith-master.vercel.app/" style="color: #2c7be5; text-decoration: none; font-weight: bold;">Hadith Master</a></h3> <p style="font-size: 16px; max-width: 500px; margin: auto;"> Enhance your knowledge with ease. This application enables you to <strong>search, filter, and read Islamic texts</strong>, offering <strong>AI-powered suggestions, live previews</strong>, and interactive learning tools. </p> </div>
+<div align="center" style="max-width: 650px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; background: #f9faff; padding: 20px; border-radius: 15px; box-shadow: 0 8px 20px rgba(54, 110, 255, 0.2);"> <h3 style="color: #366aff; margin-bottom: 0.3rem;"> <a href="https://hazsha28.github.io/Flavour-Fusion/" style="color: #254eda; text-decoration: none; font-weight: 700;">Flavour Fusion</a> </h3> <p style="font-size: 16px; max-width: 520px; margin: auto; color: #444;"> Immerse yourself in a world of flavors. This project allows you to <strong style="color:#1e40af;">explore, create, and share recipes</strong> featuring <strong style="color:#1e40af;">step-by-step video tutorials</strong> and interactive cooking guides. </p> <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #366aff, #254eda);" /> <h3 style="color: #366aff; margin-bottom: 0.3rem;"> <a href="https://hazsha28.github.io/Todo-App/" style="color: #254eda; text-decoration: none; font-weight: 700;">Todo App</a> </h3> <p style="font-size: 16px; max-width: 520px; margin: auto; color: #444;"> Stay organized with ease by managing your daily tasks efficiently. This app offers <strong style="color:#1e40af;">smooth animations</strong>, <strong style="color:#1e40af;">drag-and-drop functionality</strong>, and <strong style="color:#1e40af;">instant feedback</strong> to enhance productivity. </p> <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #366aff, #254eda);" /> <h3 style="color: #366aff; margin-bottom: 0.3rem;"> <a href="https://hazsha28.github.io/Expense-Tracker/" style="color: #254eda; text-decoration: none; font-weight: 700;">Expense Tracker</a> </h3> <p style="font-size: 16px; max-width: 520px; margin: auto; color: #444;"> Visualize and manage your finances effectively. This tool helps you <strong style="color:#1e40af;">track, analyze, and control your expenses</strong> with clarity. </p> <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #366aff, #254eda);" /> <h3 style="color: #366aff; margin-bottom: 0.3rem;"> <a href="https://hadith-master.vercel.app/" style="color: #254eda; text-decoration: none; font-weight: 700;">Hadith Master</a> </h3> <p style="font-size: 16px; max-width: 520px; margin: auto; color: #444;"> Enhance your knowledge with ease. This application enables you to <strong style="color:#1e40af;">search, filter, and read Islamic texts</strong>, offering <strong style="color:#1e40af;">AI-powered suggestions, live previews</strong>, and interactive learning tools. </p> </div>
 
 ## 🏆 Highlights
 
-Full Stack Development Intern @ Learnlogicify Technologies
-
-Infosys Certified in Java Programming
-
-NPTEL certified in Problem Solving with C, DBMS, and Computer Networks
-
-2700/3000 in CodeChef C Test (90% Skill Score)
-
-Regular participant in global programming contests (CodeChef)
+<ul style="max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; font-size: 16px; line-height: 1.6;">
+  <li><strong>Full Stack Development Intern</strong> at <em>Learnlogicify Technologies</em> — Gained hands-on experience in building end-to-end web applications using modern stacks.</li>
+  <li><strong>Infosys Certified</strong> in <em>Java Programming</em> — Demonstrated strong proficiency and understanding of Java concepts and applications.</li>
+  <li><strong>NPTEL Certified</strong> in <em>Problem Solving with C, DBMS, and Computer Networks</em> — Acquired comprehensive knowledge in key computer science domains.</li>
+  <li><strong>2700 / 3000</strong> in <em>CodeChef C Test</em> (90% Skill Score) — Showcasing advanced problem-solving skills and algorithm mastery.</li>
+  <li><strong>Regular participant</strong> in global programming contests on <em>CodeChef</em> — Continuously improving competitive programming skills through challenges.</li>
+</ul>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hazsha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hazsha28&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazsha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazSha28&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HazSha28&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HazSha28&theme=codeSTACKr)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Hazsha28&icon=6&color=8)](https://visitcount.itsvg.in)
+<p align="center">
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  [![Profile Visit Count](https://visitcount.itsvg.in)](https://visitcount.itsvg.in)
+</p>
+
+## 🎯 Hobbies & Interests
+
+<div style="max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; font-size: 16px; line-height: 1.6;">
+  <p><strong>Exploring emerging technologies:</strong> Staying updated with the latest trends and tools in software development.</p>
+  <p><strong>Public Speaking:</strong> Actively participating in clubs like Toastmasters to hone communication and leadership skills.</p>
+  <p><strong>Creative Design:</strong> Designing graphics, fonts, and UI elements as a creative outlet and to enhance user experiences.</p>
+  <p><strong>Puzzles and Problem Solving:</strong> Enjoying brain teasers, coding contests, and algorithm challenges to sharpen logical thinking.</p>
+  <p><strong>Travel and Culture:</strong> Experiencing new places and cultures to broaden perspectives and fuel inspiration.</p>
+</div>
 
 <p align="center">
   <b>Fun Fact</b><br>
