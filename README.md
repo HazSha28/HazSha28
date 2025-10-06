@@ -1,16 +1,105 @@
-<!-- Inspired by Uiverse.io, restyled and personalized -->
-<div class="group duration-500 hover:-skew-x-0 skew-x-6 hover:translate-x-2">
-  <div class="group-hover:duration-400 relative rounded-2xl w-80 h-40 bg-gradient-to-tr from-blue-700 via-indigo-600 to-purple-500 shadow-xl text-white flex flex-col justify-center items-center gap-1
-    before:-skew-x-12 before:rounded-2xl before:absolute before:bg-gradient-to-br from-purple-900 to-indigo-800 before:right-3 before:top-0 before:w-80 before:h-36 before:-z-10">
-    <span class="text-5xl font-extrabold drop-shadow-lg tracking-wide">
-      Ayishathul Hazeena
-    </span>
-    <p class="text-xl font-semibold text-yellow-300 drop-shadow-sm mt-2">
-      Tech and Management Enthusiast
-    </p>
-  </div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Clickable Card - AH Toggle</title>
+  <style>
+    .card {
+      width: 300px;
+      height: 200px;
+      background: linear-gradient(135deg, #1f2a33, #2e3e46);
+      position: relative;
+      display: grid;
+      place-content: center;
+      border-radius: 12px;
+      overflow: hidden;
+      transition: all 0.4s ease-in-out;
+      cursor: pointer;
+      box-shadow: 0 8px 15px rgba(189, 159, 103, 0.4);
+      outline: none;
+    }
 
+    .border {
+      position: absolute;
+      inset: 0;
+      border: 2px solid #d4af37;
+      opacity: 0.75;
+      transform: rotate(10deg);
+      transition: all 0.4s ease-in-out;
+      box-shadow: 0 0 8px #d4af37;
+    }
+
+    .card:hover .border,
+    .card:focus .border {
+      inset: 10px;
+      opacity: 1;
+      transform: rotate(0);
+      box-shadow: 0 0 15px #ffde7a;
+    }
+
+    .text-display {
+      color: #d4af37;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 700;
+      text-align: center;
+      width: 90%;
+      line-height: 1.3;
+      user-select: none;
+      text-shadow: 0 0 6px #ffde7a;
+      transition: font-size 0.3s ease, letter-spacing 0.3s ease;
+    }
+
+    .text-small {
+      font-size: 56px;
+      letter-spacing: 10px;
+    }
+
+    .text-large {
+      font-size: 16px;
+      letter-spacing: 2.5px;
+      word-break: break-word;
+    }
+  </style>
+</head>
+<body>
+  <div class="card" id="toggleCard" aria-pressed="false" role="button" tabindex="0" title="Click to toggle text">
+    <div class="border"></div>
+    <div class="content">
+      <div class="text-display text-small" id="textDisplay">AH</div>
+    </div>
+  </div>
+
+  <script>
+    const card = document.getElementById('toggleCard');
+    const textDisplay = document.getElementById('textDisplay');
+
+    const shortText = "AH";
+    const fullText = "AYISHATHUL HAZEENA a tech and management enthusiast";
+
+    card.addEventListener('click', () => {
+      if (card.getAttribute('aria-pressed') === 'false') {
+        textDisplay.textContent = fullText;
+        textDisplay.classList.remove('text-small');
+        textDisplay.classList.add('text-large');
+        card.setAttribute('aria-pressed', 'true');
+      } else {
+        textDisplay.textContent = shortText;
+        textDisplay.classList.remove('text-large');
+        textDisplay.classList.add('text-small');
+        card.setAttribute('aria-pressed', 'false');
+      }
+    });
+
+    card.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        card.click();
+      }
+    });
+  </script>
+</body>
+</html>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36DEFF&center=true&vCenter=true&width=800&lines=Tech+%26+Management+Student;Full-Stack+Enthusiast;Building+with+Passion;Always+Learning+New+Things" alt="Typing Roles Animation" />
