@@ -65,53 +65,16 @@ I love building things that make life easier, spark curiosity, and connect peopl
 </p>
 
 ## 🌐 Coding platforms
-<p align="left">
-  <a href="https://github.com/HazSha28"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/Hazeena%20S"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=plastic" /></a>
-  <a href="https://leetcode.com/u/HAZEENA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=plastic" /></a>
-  <a href="https://www.codechef.com/users/kit27csbs11"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=plastic" /></a>
-  <a href="https://www.geeksforgeeks.org/user/tohazzwgh/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=plastic" /></a>
-</p>
+
+<a href="https://github.com/HazSha28"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Hazeena%20S"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=flat" /></a>
+<a href="https://leetcode.com/u/HAZEENA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat" /></a>
+<a href="https://www.codechef.com/users/kit27csbs11"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=flat" /></a>
+<a href="https://www.geeksforgeeks.org/user/tohazzwgh/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=flat" /></a>
+
 ## 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="290">
-      <a href="https://hazsha28.github.io/Flavour-Fusion/">
-        <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Flavour Fusion" width="120"/><br/>
-        <b>Flavour Fusion</b>
-      </a>
-      <br/>
-      <span>🍳 Dive into a world of flavors! Explore, create, and share recipes with <b>step-by-step video tutorials</b> and interactive cooking guides.</span>
-    </td>
-    <td align="center" width="290">
-      <a href="https://hazsha28.github.io/Todo-App/">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Todo App" width="120"/><br/>
-        <b>Todo App</b>
-      </a>
-      <br/>
-      <span>📝 Stay organized effortlessly! Manage your daily tasks with <b>smooth animations, drag-and-drop features</b>, and instant feedback.</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="290">
-      <a href="https://hazsha28.github.io/Expense-Tracker/">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/3oKIPwoeGErMmaI43C/giphy.gif" alt="Expense Tracker" width="120"/><br/>
-        <b>Expense Tracker</b>
-      </a>
-      <br/>
-      <span>💹 Transform your finances visually! Track, analyze, and manage your expenses</b>.</span>
-    </td>
-    <td align="center" width="290">
-      <a href="https://hadith-master.vercel.app/">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZzNnM2d3o4cGJ3Z3F5OHd3dHF3MGJzZmR6eHNqYjQ2eG51N2FvZiZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hadith Master" width="120"/><br/>
-        <b>Hadith Master</b>
-      </a>
-      <br/>
-      <span>📖 Explore knowledge effortlessly! Search, filter, and read Islamic texts with <b>AI-powered suggestions, live previews, and interactive learning tools</b>.</span>
-    </td>
-  </tr>
-</table>
+<div align="center" style="max-width: 650px; margin: auto;"> <p> <a href="https://hazsha28.github.io/Flavour-Fusion/"> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Flavour Fusion" width="150" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" /> </a> </p> <h3>🍳 <a href="https://hazsha28.github.io/Flavour-Fusion/" style="color: #36DEFF; text-decoration: none;">Flavour Fusion</a></h3> <p style="font-size: 16px; max-width: 500px; margin: auto; color: #555;"> Dive into a world of flavors! Explore, create, and share recipes with <strong>step-by-step video tutorials</strong> and interactive cooking guides. </p> <hr style="margin: 2rem 0; border: none; height: 1px; background-color: #eee;" /> <p> <a href="https://hazsha28.github.io/Todo-App/"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Todo App" width="150" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" /> </a> </p> <h3>📝 <a href="https://hazsha28.github.io/Todo-App/" style="color: #36DEFF; text-decoration: none;">Todo App</a></h3> <p style="font-size: 16px; max-width: 500px; margin: auto; color: #555;"> Stay organized effortlessly! Manage your daily tasks with <strong>smooth animations, drag-and-drop features</strong>, and instant feedback. </p> <hr style="margin: 2rem 0; border: none; height: 1px; background-color: #eee;" /> <p> <a href="https://hazsha28.github.io/Expense-Tracker/"> <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Expense Tracker" width="150" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" /> </a> </p> <h3>💹 <a href="https://hazsha28.github.io/Expense-Tracker/" style="color: #36DEFF; text-decoration: none;">Expense Tracker</a></h3> <p style="font-size: 16px; max-width: 500px; margin: auto; color: #555;"> Transform your finances visually! Track, analyze, and manage your expenses. </p> <hr style="margin: 2rem 0; border: none; height: 1px; background-color: #eee;" /> <p> <a href="https://hadith-master.vercel.app/"> <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hadith Master" width="150" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" /> </a> </p> <h3>📖 <a href="https://hadith-master.vercel.app/" style="color: #36DEFF; text-decoration: none;">Hadith Master</a></h3> <p style="font-size: 16px; max-width: 500px; margin: auto; color: #555;"> Explore knowledge effortlessly! Search, filter, and read Islamic texts with <strong>AI-powered suggestions, live previews, and interactive learning tools</strong>. </p> </div>
 
 ## 🏆 Highlights
 
@@ -126,18 +89,13 @@ NPTEL certified in Problem Solving with C, DBMS, and Computer Networks
 Regular participant in global programming contests (CodeChef)
 
 # 📊 GitHub Stats:
-<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Hazsha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hazsha28&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazsha28&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hazsha28&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Hazsha28&icon=6&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
