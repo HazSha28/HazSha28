@@ -90,7 +90,7 @@
   </tr>
 </table>
 
-##🏆 Highlights
+## 🏆 Highlights
 <p align="center"> <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Trophy Animation" width="80"/> </p>
 
 Full Stack Development Intern @ Learnlogicify Technologies
