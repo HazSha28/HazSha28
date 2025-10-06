@@ -1,112 +1,145 @@
-<p align="center">
-  <!-- Replace with your own image if desired -->
-  <img src="https://avatars.githubusercontent.com/u/15198604?v=4" alt="Profile Picture" width="180" style="border-radius:50%;margin-bottom:10px;">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=800&color=36DEFF,FF36DE,DEFF36&center=true&vCenter=true&width=350&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Animated Welcome">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36DEFF&height=200&section=header&text=Ayishathul%20Hazeena&fontSize=60&fontAlignY=35&desc=Full-Stack%20Enthusiast%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=36DEFF&strokeWidth=2" alt="Header" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=36DEFF,FF36DE,DEFF36&center=true&vCenter=true&width=500&lines=Ayishathul+Hazeena" alt="Ayishathul Hazeena animated heading">
-</p>
-<p align="center" style="font-size:20px;">
-  Computer Science & Business Systems Undergraduate · Full-Stack Enthusiast · Aspiring Software Developer
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36DEFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Ayishathul+Hazeena;Full-Stack+Enthusiast+%7C+Aspiring+Software+Developer;Building+Modern+Web+Apps;DSA+%26+Problem+Solving+Fan" alt="Typing SVG" />
 
----
+</div>
 
-I love building things that make life easier, spark curiosity, and connect people. Whether it's crafting a website, solving a tricky algorithm, or organizing a team project, I'm always up for a challenge!
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=HazSha28&color=36DEFF&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/HazSha28?style=for-the-badge&logo=github&color=36DEFF&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/HazSha28?style=for-the-badge&logo=github&color=36DEFF&labelColor=000000)
 
-## 💡 Skills & Technologies
+</div>
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<div align="center">
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+Passionate learner and developer who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
+Currently working with **JavaScript, React, Firebase, MongoDB, Java, C, SQL** and always excited to learn more!
 
-**Concepts:**  
-- OOP (Java)
-- DBMS
-- Data Structures & Algorithms
-- UI/UX
-- Operating Systems
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+</div>  
 
 ---
 
-## 📊 GitHub Activity Graph
+## 💡 Technical Skills  
 
-[![HazSha28's Neon Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HazSha28&bg_color=000000&color=39FF14&line=FF00FF&point=00FFFF&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>  
+
+### Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>  
+
+### Backend & Database  
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>  
+
+### DSA & Problem Solving  
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-1F8ACB?style=for-the-badge&logo=codechef&logoColor=white"/>
+</p>  
+
+### Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>    
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured Projects  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=radical&hide_border=true" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=radical&hide_border=true" height="150px" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-🔹 [**Flavour Fusion**](https://hazsha28.github.io/Flavour-Fusion/) 🍲  
-A platform for discovering and sharing recipes from around the world.
-
-🔹 **Todo App** ✅  
-A simple and intuitive task manager for daily tasks.
-
-🔹 **Expense Tracker** 💸  
-Monitor and manage expenses, analyze spending habits, and set financial goals.
-
-🔹 [**Hadith Master**](https://hadith-master.vercel.app/) 📖  
-A web app dedicated to preserving and making accessible Islamic texts.
+- **Flavour Fusion** – Discover and share recipes  
+- **Todo App** – Organize daily tasks
+- **Expense Tracker** – Track and analyze expenses
+- **Hadith Master** – Islamic texts made accessible
 
 ---
 
 ## 🏆 Highlights
 
- Full Stack Development Intern @ Learnlogicify Technologies  
- Infosys Certified in **Java Programming**  
- NPTEL certified in **Problem Solving with C, DBMS, and Computer Networks**  
- **2700/3000** in CodeChef C Test (90% Skill Score)  
- Regular participant in global programming contests (CodeChef)
+* Full Stack Development Intern @ Learnlogicify Technologies  
+* Infosys Certified in **Java Programming**  
+* NPTEL certified in **Problem Solving with C, DBMS, and Computer Networks**  
+* **2700/3000** in CodeChef C Test (90% Skill Score)  
+* Regular participant in global programming contests (CodeChef)
 
 ---
 
-## 🌐 Connect With Me
+## 📈 GitHub Analytics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hazeena-shahul-hameed-b01838292"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://github.com/HazSha28"><img src="https://img.shields.io/badge/GitHub-24292F?logo=github&style=for-the-badge" /></a>
-  <a href="https://codolio.com/profile/Hazeena%20S"><img src="https://img.shields.io/badge/Codolio-1a1a1a?style=for-the-badge" /></a>
-  <a href="https://leetcode.com/u/HAZEENA/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" /></a>
-  <a href="https://www.codechef.com/users/kit27csbs11"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.geeksforgeeks.org/user/tohazzwgh/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge" /></a>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HazSha28&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=36DEFF&text_color=36DEFF&icon_color=36DEFF&border_color=36DEFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazSha28&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=36DEFF&text_color=36DEFF&border_color=36DEFF" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HazSha28&theme=dark&hide_border=true&background=0D1117&stroke=36DEFF&ring=36DEFF&fire=36DEFF&currStreakNum=36DEFF&sideNums=36DEFF&currStreakLabel=36DEFF&sideLabels=36DEFF&dates=36DEFF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HazSha28&theme=react-dark&hide_border=true&bg_color=0D1117&color=36DEFF&line=36DEFF&point=36DEFF&area=true&area_color=36DEFF&title_color=36DEFF" alt="Activity Graph" />
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🏅 GitHub Trophies
 
-When I’m not coding, you’ll find me volunteering with Toastmasters, creating digital content, or searching for new recipes and flavors to try 🍴✨.
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HazSha28&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
-⭐ *“Striving to merge innovation with impact, one project at a time.”*
+## 📚 Currently Learning  
+- Advanced React patterns and state management
+- Backend integration with Firebase & MongoDB
+- Advanced Data Structures & Algorithms
+- Problem Solving techniques and optimization
+- Full-Stack Development best practices
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://github.com/HazSha28"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hazeena-shahul-hameed-b01838292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
+
+---
+
+<div align="center">
+
+### Fun Fact
+*"Striving to merge innovation with impact, one project at a time!"*
+
+**⭐ From [HazSha28](https://github.com/HazSha28)**
+
+</div>
