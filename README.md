@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HazSha28/HazSha28/raw/main/path/to/github-header-banner-1.jpg" alt="Profile Banner" />
+  ![Header](./github-header-banner-1.jpg)
 </p>
 
 <h1 align="center" style="font-weight:bold; color:#36DEFF;">
@@ -96,21 +96,20 @@ I love building things that make life easier, spark curiosity, and connect peopl
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HazSha28&theme=codeSTACKr)
 
 ## 🏆 GitHub Trophies
-
-[<p align="center">
+<p align="center">
  [ ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazsha28&theme=vue&no-frame=true&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=HazSha28&theme=juicyfresh)
 </p>
 
 ## 🎯 Hobbies & Interests
 
-<div style="max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; font-size: 16px; line-height: 1.6;">
+<p><div style="max-width: 600px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2a2a2a; font-size: 16px; line-height: 1.6;">
   <p><strong>Exploring emerging technologies:</strong> Staying updated with the latest trends and tools in software development.</p>
   <p><strong>Public Speaking:</strong> Actively participating in clubs like Toastmasters to hone communication and leadership skills.</p>
   <p><strong>Creative Design:</strong> Designing graphics, fonts, and UI elements as a creative outlet and to enhance user experiences.</p>
   <p><strong>Puzzles and Problem Solving:</strong> Enjoying brain teasers, coding contests, and algorithm challenges to sharpen logical thinking.</p>
   <p><strong>Travel and Culture:</strong> Experiencing new places and cultures to broaden perspectives and fuel inspiration.</p>
 </div>
-
+</p>
 <p align="center">
   <b>Fun Fact</b><br>
   <i>"Striving to merge innovation with impact, one project at a time!"</i>
