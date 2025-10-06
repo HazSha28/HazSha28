@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Ayishathul Hazeena
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+![Progress](https://img.shields.io/badge/Project--In--Progress-70%25-yellow?style=for-the-badge)
 
 💻 **Computer Science & Business Systems Undergraduate | Aspiring Software Developer | Full-Stack Enthusiast**
 
